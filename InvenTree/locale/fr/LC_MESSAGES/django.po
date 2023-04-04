@@ -742,11 +742,11 @@ msgstr "Fabrication"
 
 #: InvenTree/status_codes.py:430
 msgid "Return"
-msgstr ""
+msgstr "Retour"
 
 #: InvenTree/status_codes.py:431
 msgid "Repair"
-msgstr ""
+msgstr "Réparation"
 
 #: InvenTree/status_codes.py:432
 msgid "Refund"
@@ -754,11 +754,11 @@ msgstr ""
 
 #: InvenTree/status_codes.py:433
 msgid "Replace"
-msgstr ""
+msgstr "Remplace"
 
 #: InvenTree/status_codes.py:434
 msgid "Reject"
-msgstr ""
+msgstr "Rejet"
 
 #: InvenTree/validators.py:18
 msgid "Not a valid currency code"
